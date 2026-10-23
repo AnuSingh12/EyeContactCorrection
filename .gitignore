@@ -1,0 +1,31 @@
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local datasets and generated arrays
+dataset/synthetic/
+dataset/processed/
+data/
+*.npy
+*.npz
+
+# Training outputs
+checkpoints/
+runs/
+*.pth
+*.pt
+*.ckpt
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
