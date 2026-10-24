@@ -23,7 +23,7 @@ A synthetic eye-image dataset is used for training the model.
 - `dataset_x_head_angles.npy` – Head-pose angles
 - `dataset_names.npy` – Image identifiers
 
-##Work Completed
+## Work Completed
 
 Prepared and checked the synthetic dataset.
 
